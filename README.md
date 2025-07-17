@@ -93,11 +93,11 @@ PHR Users (e.g., doctors, family members) can:
    
     - Copy the project folder into the webapps/ directory of your Tomcat installation
     - Start the Tomcat server
-    - Wait for the project to be deployed (usually accessible at: http://localhost:8080/SeSPHR)
+    - Wait for the project to be deployed (usually accessible at: http://localhost:2020/SeSPHR)
 
 4. **Access the Web Portal**
    
-    - Open a browser and go to http://localhost:8080/SeSPHR
+    - Open a browser and go to http://localhost:2020/SeSPHR
     - The login and registration interface should appear
 
 6. **Register and Begin Using the System**
