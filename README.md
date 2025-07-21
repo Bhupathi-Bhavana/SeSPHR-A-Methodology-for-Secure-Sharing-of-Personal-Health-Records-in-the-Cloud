@@ -81,7 +81,7 @@ PHR Users (e.g., doctors, family members) can:
 1. **Clone the Repository to Your Local Machine**
 
    ```bash
-   git clone https://github.com/Bhupathi-Bhavana/SeSPHR-A-Methodology-for-Secure-Sharing-of-Personal-Health-Records-in-the-Cloud.git
+   git clone https://github.com/Bhupathi-Bhavana/SeSPHR-A-Methodology-for-Secure-Sharing-of-Personal-Health-Records-in-the-Cloud
    
 2. **Set Up MySQL**
    
